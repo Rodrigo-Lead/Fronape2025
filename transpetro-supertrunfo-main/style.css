@@ -764,8 +764,8 @@ grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   }
   .container {
     width: auto;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 22px;
+    padding-right: 22px;
   }
   .card,
   .card1,
